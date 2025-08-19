@@ -1,0 +1,2 @@
+# TelecomX
+alura oracle
